@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laykadao.com/sitemap.xml.gz
